@@ -16,5 +16,3 @@ It was created as part of the **JavaScript Intern (Fresher 2)** assessment task.
 
 ---
 
-## 🧠 Project Structure
-
